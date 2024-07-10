@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a649b890-e1aa-44b6-912e-2d64aeb3c369" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Tasks/Week1/Task1/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week2/Task10/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week2/Task11/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week2/Task13/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week2/Task14/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week2/Task3/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week2/Task4/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week2/Task5/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week2/Task6/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week2/Task7/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week2/Task8/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week2/Task9/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week20/Task2/example_usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week20/Task2/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week21/Task1/example_usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week21/Task2/example_usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week22/Task2/example_usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week22/Task2/task_description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week29/Task2/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week30/Task1/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week30/Task2/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week31/Task1/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week31/Task2/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week31/Task2/example_usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week31/Task2/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week31/Task3/example_usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week31/Task3/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week31/Task4/example_usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week31/Task4/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week31/Task4/task_description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week31/Task5/example_usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week31/Task5/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week31/Task5/task_description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week31/Task6/example_usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week31/Task6/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week31/Task6/task_description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week31/Task7/example_usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week31/Task7/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week31/Task7/task_description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week4/Task1/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Week4/Task2/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/27.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/28.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/29.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/31.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/33.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/34.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/35.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/37.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/38.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/39.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/41.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/42.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/43.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/44.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/45.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/46.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/47.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/48.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/49.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/50.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/51.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/52.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/53.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/54.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/55.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/56.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/57.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/58.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/59.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/70.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/71.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/72.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/74.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/75.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week10/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week10/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week10/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week10/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week10/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week10/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week11/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week11/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week11/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week11/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week11/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week11/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week12/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week12/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week12/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week12/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week12/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week12/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week13/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week13/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week13/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week13/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week13/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week13/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week14/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week14/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week14/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week14/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week14/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week14/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week15/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week15/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week15/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week15/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week15/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week15/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week16/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week16/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week16/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week17/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week17/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week17/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week17/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week17/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week17/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week18/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week18/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week18/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week18/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week18/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week18/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week19/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week19/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week19/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week19/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week19/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week19/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task10/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task10/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task10/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task11/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task11/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task11/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task12/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task12/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task12/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task13/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task13/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task13/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task14/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task14/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task14/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task15/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task15/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task15/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task3/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task3/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task3/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task4/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task4/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task4/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task5/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task5/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task5/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task6/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task6/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task6/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task7/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task7/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task7/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task8/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task8/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task8/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task9/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task9/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Task9/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week20/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week20/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week20/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week20/Task2/generator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week20/Task2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week20/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week21/Task1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week21/Task1/solution.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week21/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week21/Task2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week21/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week21/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week22/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week22/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week22/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week22/Task2/example_usage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week22/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week22/Task2/task_description.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week23/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week23/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week23/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week23/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week23/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week23/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week24/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week24/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week24/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week24/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week24/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week24/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week25/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week25/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week25/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week25/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week25/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week25/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week26/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week26/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week26/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week26/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week26/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week26/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week27/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week27/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week27/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week27/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week27/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week27/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week28/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week28/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week28/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week28/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week28/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week28/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week29/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week29/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week29/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week29/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week29/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week29/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Task3/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Task3/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Task3/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Task4/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Task4/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Task4/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week30/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week30/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week30/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week30/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week30/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week30/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week31/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week31/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week31/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week31/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week31/Task3/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/Task3/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/Task3/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/Task3/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/Task4/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/Task4/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/Task4/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week6/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week6/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week6/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week6/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week6/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week6/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week7/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week7/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week7/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week7/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week7/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week7/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week8/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week8/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week8/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week8/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week8/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week8/Task2/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week9/Task1/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week9/Task1/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week9/Task1/task_description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week9/Task2/example_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week9/Task2/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week9/Task2/task_description.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2j3BW09gu1JxzT6veiT87MsfZKm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.example_usage.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.fileTypes"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Homework\Tasks\Week31\Task7" />
+      <recent name="D:\Homework\Tasks\Week31\Task6" />
+      <recent name="D:\Homework\Tasks\Week31\Task5" />
+      <recent name="D:\Homework\Tasks\Week31\Task4" />
+      <recent name="D:\Homework\Tasks\Week31\Task3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="example_usage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Homework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tasks/Week1/Task1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tasks/Week1/Task1/example_usage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.example_usage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a649b890-e1aa-44b6-912e-2d64aeb3c369" name="Changes" comment="" />
+      <created>1720605908240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720605908240</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tasks/Week19/Task2/example_usage.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tasks/Week20/Task1/solution.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tasks/Week24/Task2/solution.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tasks/Week26/Task1/example_usage.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tasks/Week27/Task2/example_usage.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tasks/Week29/Task2/solution.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
